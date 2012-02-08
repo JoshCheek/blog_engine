@@ -6,6 +6,11 @@ Assumptions it tries to avoid making would be delivery mechanism (Rails, Sinatra
 The idea comes from [this](https://gist.github.com/1763643) gist.
 
 
+Example
+-------
+
+See the [acceptance spec](https://github.com/JoshCheek/blog_engine/blob/master/spec/acceptance_spec.rb) for an example of how this would work.
+
 
 Things that might make this better.
 -----------------------------------
