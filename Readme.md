@@ -1,5 +1,5 @@
 This is a proof of concept for a blog engine which tries to avoid making assumptions.
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 Assumptions it tries to avoid making would be delivery mechanism (Rails, Sinatra, CLI), persistence (in-memory, activerecord, any given data store).
 
@@ -8,7 +8,7 @@ The idea comes from [this](https://gist.github.com/1763643) gist.
 
 
 Things that might make this better.
-===================================
+-----------------------------------
 
 * The validators should probably receive the persister so that they can do things like check uniqueness
 
@@ -35,7 +35,7 @@ I wanted to do this, but I wasn't really sure how the interface between the engi
 
 
 MIT License
-===========
+-----------
 
 Copyright (c) 2012 Josh Cheek
 
